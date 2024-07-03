@@ -29,7 +29,7 @@ export const App = () => (
       list={list_post}
       create={post_create}
       edit={updata_Post}
-      show={ShowGuesser}
+      show={ShowGuesser}  
     />
     <Resource
       name="users"
